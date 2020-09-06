@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#332E0C",
+        "titleBar.activeBackground": "#474111",
+        "titleBar.activeForeground": "#FCFBF2"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "prettier.proseWrap": "never"
+}

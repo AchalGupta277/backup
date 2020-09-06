@@ -1,0 +1,23 @@
+{
+  "name": "journal-api",
+  "version": "1.0.0",
+  "description": "Journal to answer fixed questions on different days to check progress",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=1901 nodemon index.js",
+    "dev": "PORT=1901 nodemon index.js"
+  },
+  "author": "Achal Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.3.0",
+    "underscore": "^1.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
